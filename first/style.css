@@ -1,0 +1,31 @@
+header {
+  background-color: darkslategray;
+  width: full;
+  height: 100px;
+  margin-top: 1px;
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+main {
+  margin-left: 125px;
+  margin-right: 125px;
+  background-color: white;
+  height: 750px;
+}
+
+body {
+  background-color: lightgray;
+}
+
+footer {
+  background-color: black;
+  margin-left: 125px;
+  margin-right: 125px;
+  height: 75px;
+  margin-bottom: 1px;
+}
+
+body {
+  border: 1px solid black;
+}
